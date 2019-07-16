@@ -1,2 +1,2 @@
-# LearnCI
+# learnCI
 Learn CircleCI
